@@ -1,4 +1,4 @@
-" " "1. Given four strings A, B, C, D, write a program to check if D is an interleaving of A, B and C. D is said to be an interleaving of A, B and C, if it contains all characters of A, B, C and the order of all characters in individual strings can be changed." " "
+" " "1. Given four strings A, B, C, D, write a program to check if D is an interleaving of A, B and C. D is said to be an interleaving of A, B and C, if it contains all characters of A, B, C and the order of all characters in individual strings should be preserved." " "
 
 
 # Function to check if D is an interleaving of A,B  and C or not
