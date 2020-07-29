@@ -1,5 +1,4 @@
-# Python3 program to check for 
-# balanced parenthesis. 
+# Accept a String input-Verify whether the pairs and the orders of "{", "}", "(", ")", "[", "]" are correct in exp. Print well formed if every opening brace has an equivalent closing brace.Print invalid if every opening brace does not have an equivalent closing brace"""
 
 # function to check if 
 # paranthesis are balanced 
